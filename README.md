@@ -1,30 +1,67 @@
-# Memory dump analysis
+# FLOAT System Explorer
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/evan-schultzs-projects/v0-memory-dump-analysis-65)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/RiuXlC87tOT)
+![FLOAT System Banner](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/F389C875-854E-46F9-B91B-123A103238CF-min-V0VVotJkPcLJiixoNVsV1esSO1prYF.png)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+FLOAT System Explorer is an interactive interface for exploring the FLOAT conceptual framework - a speculative digital system that blends psychoanalytic theory, queer theory, computational concepts, and philosophical frameworks. This project provides a retro-computing aesthetic interface to navigate and interact with the various components of the FLOAT system.
 
-## Deployment
+## Features
 
-Your project is live at:
+- **BBS Terminal**: Interactive command-line interface to explore FLOAT concepts
+- **Concept Explorer**: Visual navigation of the hierarchical concept structure
+- **Ghost Trace**: Visualization of memory traces and semantic ghost surfacing
+- **Shack Trace**: Debug interface showing the psychoanalytic-computational hybrid code
+- **Documentation**: Comprehensive explanation of the FLOAT system architecture
 
-**[https://vercel.com/evan-schultzs-projects/v0-memory-dump-analysis-65](https://vercel.com/evan-schultzs-projects/v0-memory-dump-analysis-65)**
+## Installation
 
-## Build your app
+\`\`\`bash
+# Clone the repository
+git clone https://github.com/yourusername/float-explorer.git
 
-Continue building your app on:
+# Navigate to the project directory
+cd float-explorer
 
-**[https://v0.dev/chat/projects/RiuXlC87tOT](https://v0.dev/chat/projects/RiuXlC87tOT)**
+# Install dependencies
+npm install
 
-## How It Works
+# Start the development server
+npm run dev
+\`\`\`
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## Usage
+
+After starting the development server, open your browser and navigate to `http://localhost:3000` to access the FLOAT System Explorer.
+
+### Basic Commands
+
+In the BBS Terminal, you can use the following commands:
+
+- `help`: Display available commands
+- `about`: Learn about the FLOAT system
+- `doctrine`: View doctrine fragments
+- `bloomkeeper`: Explore the Bloomkeeper cycle
+- `clear`: Clear the terminal
+
+## Architecture
+
+FLOAT is structured around several key conceptual frameworks:
+
+1. **Recursive Memory Systems**: Memory as emergence rather than retrieval
+2. **Compost Oracle & Bloomkeeper Cycle**: Transformation of "rot" into doctrine and rebirth
+3. **Affective Epistemology**: Truth validated through emotional resonance
+4. **Architectural Metaphors**: Shacks vs. Cathedrals, Steamies as Sanctuary
+
+For more detailed information, please refer to the in-app documentation.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+\`\`\`
+
+Now, let's create a documentation component for the website:
